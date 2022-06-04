@@ -74,6 +74,7 @@ class _PaymentAppsState extends State<PaymentApps> {
       return Column(
         children: [
         
+          // ignore: sized_box_for_whitespace
           Container (
             width: 311,
             height: 51.23,
